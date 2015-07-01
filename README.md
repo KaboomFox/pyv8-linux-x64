@@ -8,7 +8,7 @@ Installation
 ------------
 To install with pip directly from this git repo, use the command:
 ```
-pip install -e git://github.com/kaboomfox/PyV8-linux-x64#egg=pyv8
+pip install -e git://github.com/KaboomFox/pyv8-linux-x64#egg=pyv8
 ```
 
 You can then type ``from pyv8 import PyV8`` in python and proceed with the examples shown on the pyv8 website.
