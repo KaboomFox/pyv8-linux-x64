@@ -14,7 +14,7 @@ setup(
     author="The internet",
     author_email="louise.s.fox@gmail.com",
     description="wrapper for PyV8 binary for Linux x64",
-    long_description=read("README.md"),
+    long_description="wrapper for PyV8 binary for Linux x64",
     license="",
     url="https://github.com/louisef/pyv8-linux-x64",
     packages=find_packages(),
